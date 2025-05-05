@@ -27,6 +27,12 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
+### 4. Run the project
+
+```bash
+python main.py
+```
+
 ## 📦 Requirements
 
 - Python 3+
